@@ -25,5 +25,8 @@ En cas d’absence, les parents sont automatiquement notifiés.
 - Création d’un dashboard connecté à une base de données  
 - Tests du système en temps réel
 
+## Code
+Le code Arduino IDE sera ajouté prochainement.
+
 ## Tags / Topics
 Arduino • Biométrie • Systèmes embarqués • Éducation intelligente • Suivi de présence • IoT • Projet académique
